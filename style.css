@@ -1,0 +1,39 @@
+body{
+     background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.39548319327731096) 35%, rgba(0,212,255,1) 100%);;
+}
+h1{
+    color: #fff;
+    text-align: center;
+}
+button{
+    width: 150px;
+    padding: 10px;
+    font-weight: 600;
+    background-color: rgb(248, 175, 17);
+    border: none;
+    border-radius: 5px;
+    margin: 0 auto;
+    display: block;
+    cursor:pointer;
+
+}
+button:hover{
+    background-color: blueviolet;
+    color: #fff;
+}
+.card-content{
+    color: #fff;
+ padding: 20px;
+    width: 500px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    border: solid 1px black;
+    margin-top: 10px;
+   
+}
+.hidden-content{
+    display: none;
+}
+    
